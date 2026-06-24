@@ -33,3 +33,13 @@ End-to-end retail analytics project built on Google BigQuery analysing 1M+ row e
 - query4_cancellation_rate.sql
 - query5_avg_order_value.sql
 - query6_running_total.sql
+
+## Business Recommendations
+
+Based on the analysis, three actionable recommendations emerge:
+
+1. Double down on Outerwear & Coats: highest revenue category at $342K+ and highest average order value at $148. Prioritise inventory and marketing budget here heading into winter months.
+
+2. Investigate Skirts category urgently: 16.7% cancellation rate is significantly above the portfolio average. Root cause likely includes sizing inconsistencies or misleading product imagery — immediate corrective action needed.
+
+3. Focus retention on top customers: Raymond Torres and the top 10 customers show high order frequency across multiple countries. A targeted loyalty programme for this segment could meaningfully increase lifetime value.
