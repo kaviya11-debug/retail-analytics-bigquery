@@ -1,4 +1,4 @@
-# Retail Analytics Dashboard — Google BigQuery
+# Retail Analytics Dashboard - Google BigQuery
 
 ## Overview
 End-to-end retail analytics project built on Google BigQuery analysing 1M+ row ecommerce dataset to deliver business insights across product performance, customer behaviour and revenue trends.
@@ -18,10 +18,10 @@ End-to-end retail analytics project built on Google BigQuery analysing 1M+ row e
 - Top customer Raymond Torres spent $1,395 across 4 orders
 
 ## Tools Used
-- Google BigQuery — cloud SQL queries
-- SQL — JOINs, CTEs, window functions, aggregations
-- Looker Studio — interactive dashboard
-- Git/GitHub — version control
+- Google BigQuery - cloud SQL queries
+- SQL - JOINs, CTEs, window functions, aggregations
+- Looker Studio - interactive dashboard
+- Git/GitHub - version control
 
 ## Dashboard
 [View Live Dashboard](https://datastudio.google.com/reporting/2d26c8cc-999d-4eb9-bac4-58cdb7d7b0a9)
